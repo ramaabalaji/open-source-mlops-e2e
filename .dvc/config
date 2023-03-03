@@ -1,6 +1,5 @@
 [core]
-    remote = s3_remote1
+    remote = s3_remote
 ['remote "s3_remote"']
     url = s3://mltrialnew/ramaa
-['remote "s3_remote1"']
-    url = s3://mltrialnew/ramaa
+
